@@ -1,0 +1,18 @@
+.gutter {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.gutter.gutter-vertical {
+ 
+  cursor: row-resize;
+}
+.gutter.gutter-horizontal {
+ 
+  cursor: row-resize;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
